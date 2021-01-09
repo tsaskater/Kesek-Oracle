@@ -1,3 +1,11 @@
+# Tartalom Jegyzék:
+1. [Ismertetés](#ismertetés)
+2. [Táblák felépítése és kapcsolataik](#táblák-felépítése-és-kapcsolataik)
+    1. [**CEDRIC_CUT_TESTS** tábla](#1cedric_cut_tests-tábla)
+    2. [**BLADEHQ_ACEL_ERTEKELES** tábla](#2-bladehq_acel_ertekeles-tábla)
+    3. [**KES_BOLT** tábla](#3-kes_bolt-tábla)
+3. [Normalizálás](#normalizálás)
+    
 # Ismertetés:
 
 Célom egy zsebkés webáruház raktárkészletének ismertetése. Mint minden szerszámnál, a zsebkéseknél is fizethetünk pár ezer forintot vagy több tízezret, akár milliókat is. Ennek a miértje a mindennapi emberben talán nem is fordul meg azonban az elmúlt évtizedek során rengeteget fejlődött ez az ipar. Pontosabb CNC gépek jobb minőség ellenőrzés, anyaghasználat, és más fontos dolgok mellet nagyon nagy szerepet kap a különböző acéltípusok használata. Ezekről két fő forrásból érdemes talán a legkönnyebben tanulni, úgy hogy ne legyen szükségünk kémiai és kohászati adatokkal ismerkednünk.
