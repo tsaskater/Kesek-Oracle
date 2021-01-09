@@ -1,0 +1,9 @@
+CREATE TABLE CEDRIC_CUT_TESTS(
+  Id INT GENERATED ALWAYS as IDENTITY(START with 1 INCREMENT by 1) PRIMARY KEY,
+  Gyarto VARCHAR(20),
+  Modell_nev VARCHAR(20),
+  Acel VARCHAR(20),
+  Vagasok INT NOT NULL,
+  CONSTRAINT vagasok_length check (Vagasok between 1 and 10000)
+);
+
