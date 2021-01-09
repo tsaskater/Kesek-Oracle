@@ -2,3 +2,4 @@
 1. [**CEDRIC_CUT_TESTS** tábla](https://github.com/tsaskater/Kesek-Oracle#1cedric_cut_tests-tábla)
 2. [**BLADEHQ_ACEL_ERTEKELES** tábla](https://github.com/tsaskaterKesek-Oracle/#2-bladehq_acel_ertekeles-tábla)
 3. [**KES_BOLT** tábla](https://github.com/tsaskater/Kesek-Oracle#3-kes_bolt-tábla)
+>A táblák szerkezeti,kapcsolati leírása és a normalizáció a repository gyökerében lévő leírásban ([`README.md`](https://github.com/tsaskater/Kesek-Oracle)) érhető el.
