@@ -1,0 +1,27 @@
+﻿1	Spyderco	Delica	VG-10	75
+2	Spyderco	Mantra	CPM-M4	224
+3	Leatherman	Surge	420HC	44
+4	Ontario	RAT 1	AUS 8	56
+5	Ontario	RAT 1	D2	120
+6	Spyderco	Manix 2	CPM-S110V	680
+7	Benchmade	940	CPM-S30V	175
+8	Leatherman	Skeletool CX	154CM	124
+9	ZT	909	CPM-S35VN	109
+10	Cold Steel	Broken Skull	CTS-XHP	242
+11	Cold Steel	Voyager	BD1	112
+12	ESEE	4	1095	75
+13	L.T. Wright	Genesis	A2	216
+14	Bark River	Bravo	CPM-3V	198
+15	Lion Steel	TRE	M390	334
+16	Spyderco	Pingo	N690	87
+17	Spyderco	Spydiechef	LC200N	226
+18	Spyderco	Manix 2	Elmax	563
+19	ZT	562	Elmax	236
+20	Spyderco	Dragonfly II	H1	44
+21	Viper	Keeper	D2	67
+22	Lion Steel	Mini	440C	77
+23	Benchmade	Contego	CPM-M4	340
+24	Benchmade	940	CPM-S30V	220
+25	Bark River	JX6	A2	191
+26	Benchmade	Griptilian	CPM-20CV	351
+27	Spyderco	Native 5	Elmax	375
