@@ -1,5 +1,5 @@
 # Egyszerű lekérdezések
-Három egyszerű egytáblás lekérdezés. Az sql megvalósítás elérhető [itt]().
+Három egyszerű egytáblás lekérdezés. Az sql megvalósítás elérhető [itt](./egszeru_lekerdezesek.sql).
 
 A lekérdezés száma a hozzátartozó sql kód előtti sorban kikommentelve megtalálható.
 ## 1. Lekérdezés:
