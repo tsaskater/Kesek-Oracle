@@ -2,7 +2,7 @@
 ## 1. Beszúrás automatizálása
 Egyszerű [`C# kód`](./Beszurás%20automatizálása) ami lehetővé teszi hogy *tabulátorral tagolt* szöveges dokumentumokból kinyerjük a kellő adatokat a beszúráshoz.
 
-A példában ez egy excel állományban lett kígyüjtve [`DATA.xlsx`](./DATA.xlxs)
+A példában ez egy excel állományban lett kígyüjtve [`DATA.xlsx`](./DATA.xlsx)
 
 #### A [C# kód](./Beszurás%20automatizálása) a példához három sql file-t generál
 ##### &emsp;&emsp; 1. [**CEDRIC_CUT_TESTS tábla beszúrás**](./cedric_insert.sql)
