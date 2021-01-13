@@ -15,6 +15,6 @@ Listázzuk azokat a késeket és acéljuk típusát melyeknek acélját a Bladeh
 
 Írjuk ki azon késeket és darabszámukat melyek jelenleg raktárkészleten vannak.
 
-## 3. Lekérdezés:
+## 4. Lekérdezés:
 
 Amennyiben van, raktárkészleten 15000 forint alatti zsebkés listázzuk az összes elérhető terméket és áraikat.
